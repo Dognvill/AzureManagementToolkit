@@ -43,6 +43,7 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 6. **Documentation**
    - Interactive help and usage guidance
 
+### Installation
 1. **Download the Toolkit**
    - Create a dedicated folder (e.g., `C:\AzureManagement`)
    - Place the following files in this folder:
@@ -54,10 +55,6 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 
 3. **Run Validate Environment**
   - Select option 4 to validate your enviroment and install the required modules
-
-
-
-
 
 ### System Requirements
 - PowerShell 7.0 or later
