@@ -7,10 +7,13 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 - Email and Calendar Management
 - Authentication Configuration
 
+## Prerequisites
+
 ### System Requirements
 - PowerShell 7.0 or later
 - Windows 10/11 or Windows Server 2019/2022
 - Appropiate Azure Permissions
+
 
 ### Required PowerShell Modules
 - Microsoft.Graph (v2.0.0 or later)
@@ -21,10 +24,6 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 - Keep authentication configurations secure and private
 - Regularly review and rotate credentials
 - Follow principle of least privilege
-
-### Version
-Current Version: 4.1
-Last Updated: February 2024
 
 ### Disclaimer
 This script is provided as-is. Always test in a controlled environment before production use. 
