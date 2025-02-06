@@ -27,7 +27,7 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
    - Configure calendar permissions
    - Add/remove delegate access
    - Convert mailboxes to shared resources
-   - 
+
 4. **Validate Environment**
    - Check and install required PowerShell modules
    - Verify Microsoft Graph and Exchange Online modules
