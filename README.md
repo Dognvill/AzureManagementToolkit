@@ -77,7 +77,7 @@ The authors are not responsible for any unintended consequences of using this to
 
 # MIT License
 
-Copyright (c) 2024 [John Bignold]
+Copyright (c) 2024 [John]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
