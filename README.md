@@ -51,10 +51,10 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
      - `Launch.bat`
      
 2. **Start Batch File**
-  - Double-click `Launch.bat`
+     - Double-click `Launch.bat`
 
 3. **Run Validate Environment**
-  - Select option 4 to validate your enviroment and install the required modules
+     - Select option 4 to validate your enviroment and install the required modules
 
 ### System Requirements
 - PowerShell 7.0 or later
