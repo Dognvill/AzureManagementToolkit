@@ -7,13 +7,26 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 - Email and Calendar Management
 - Authentication Configuration
 
-## Prerequisites
+### Step-by-Step Installation
+
+1. **Download the Toolkit**
+   - Create a dedicated folder (e.g., `C:\AzureManagement`)
+   - Place the following files in this folder:
+     - `AzureManagement.ps1`
+     - `Launch.bat`
+     
+2. **Launch Batch File**
+  - Double-click Launch.bat
+  - The script will automatically:
+    - Create required folders
+
+3. **Run Validate Environment**
+  - Select option 4 to validate your enviroment and install the required modules
 
 ### System Requirements
 - PowerShell 7.0 or later
 - Windows 10/11 or Windows Server 2019/2022
 - Appropiate Azure Permissions
-
 
 ### Required PowerShell Modules
 - Microsoft.Graph (v2.0.0 or later)
