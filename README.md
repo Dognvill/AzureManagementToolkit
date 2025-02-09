@@ -73,7 +73,7 @@ This PowerShell script provides a comprehensive toolkit for managing Entra ID us
 
 ### Disclaimer
 This script is provided as-is. Always test in a controlled environment before production use. 
-The authors are not responsible for any unintended consequences of using this tool.
+I ain't responsible for any unintended consequences of using this tool.
 
 # MIT License
 
